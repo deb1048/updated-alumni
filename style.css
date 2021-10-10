@@ -1,0 +1,23 @@
+#abcd{
+    width: 700px;
+    border-radius: 999999999999999999999999999999999999999991525px;
+}
+.qwe{
+    width:750px;
+    height:750px;
+}
+.achivement_head{
+    font-size:20px;
+    padding:6px 20px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.achivement_head i{
+float:right;
+}
+.achivement_head span{
+    color:#ff7700;
+}
+.news_li{
+    margin-top: 13px;
+}
